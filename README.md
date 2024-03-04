@@ -3,4 +3,6 @@
 -잇츠로드 
 img와 index.js 파일 입니다<br>
 -게시판 체크 리스트 
-03 파일 입니다.
+03 파일 입니다.<br>
+구현 설명 링크
+[Notion](https://polyester-advantage-d3d.notion.site/React-Project-b7c8dfaffb864984832aefd1e9e731e4?pvs=4)
